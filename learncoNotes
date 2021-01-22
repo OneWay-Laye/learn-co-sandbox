@@ -1,0 +1,11 @@
+html- hypertext markup language where developers uses tags to talk to the browser
+                *this is gonna be buildup 
+CSS- Cascade styling sheets. you'll use this to style your web page. 
+                *Picking out your clothes
+Javascript- this is a programing language. this give the webpage behaviour.
+                *this makes you who you are
+  Javascript-  can target different elements in a document and listen to them, it can move, remove, add resize them.
+  different tools and libreries built in javascript 
+    React, Ember, Angular, NodeJS, React Native.
+  DOM = Document Object Model
+
